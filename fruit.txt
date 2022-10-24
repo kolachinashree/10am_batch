@@ -1,4 +1,7 @@
 apple
 pineapple
+<<<<<<< HEAD
 grpaes
 jackfruit
+=======
+>>>>>>> parent of 987de60... jackfruit
